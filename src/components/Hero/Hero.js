@@ -48,7 +48,7 @@ function Hero() {
                     'A 3rd year undergrad student.',
                     
                     1000,
-                    'A competitive coder.',
+                    'A competitive programmer.',
                     // 'I design and code beautifully simple things, and I love what I do.',
                     1000,
                     'A problem solver.',
