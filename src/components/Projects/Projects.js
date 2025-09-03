@@ -1,5 +1,7 @@
 import React from "react";
 import ProjectCard from "./ProjectCard/ProjectCard";
+import Experience from "../Experience/Experience";
+
 function Projects() {
   return (
     <>
@@ -18,9 +20,14 @@ function Projects() {
           transform="rotate(-180 720 200)"
         ></path>
       </svg>
-      <div className="ProjectWrapper" id="projects">
+      <div className="ProjectWrapper" id="experience">
         <div className="Container">
-          <div className="SectionTitle">Projects</div>
+          <Experience />
+        </div>
+      </div>
+      <div className="ProjectWrapper" id="projects" style={{ marginTop: '4rem', paddingTop: '2rem' }}>
+        <div className="Container">
+          <div className="SectionTitle" style={{ marginTop: '2rem' }}>Projects</div>
           <ProjectCard />
         </div>
       </div>

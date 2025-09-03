@@ -32,8 +32,9 @@ export const CardRight = styled.div`
   align-items: center;
 
   h4 {
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
   }
 
   p {

@@ -11,9 +11,9 @@ import {
 import ScrollAnimation from "react-animate-on-scroll";
 function About() {
   return (
-    <ContactWrapper id="about">
+    <ContactWrapper id="about" style={{ marginTop: '4rem', paddingTop: '2rem' }}>
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle" style={{ marginTop: '2rem' }}>About Me</div>
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
@@ -36,6 +36,9 @@ function About() {
 
             <ScrollAnimation animateIn="fadeInLeft">
             What drives me? It's the belief in the power of development and coding to solve real-world issues, uplift communities, and create lasting value. I am a dedicated and relentless learner who embraces every opportunity to expand my skill set and stay ahead in the ever-evolving tech landscape. Beyond coding, I find fulfillment in turning ideas into meaningful action and collaborating with like-minded innovators.
+            </ScrollAnimation>
+
+            <ScrollAnimation animateIn="fadeInLeft">
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
