@@ -2,9 +2,9 @@
 Live Preview - [Click Here](https://sahilcodes2002.github.io/)
 
 <br/>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="public/mockup.png" />
-</div>
+</div> -->
 <br/>
 <br/>
 
