@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Sahil Kumar Sinha</strong>. I'm a passionate B.Tech undergraduate currently in my third year at SRM Institute of Science and Technology. With a stellar academic record (CGPA: 9.54) and an unyielding enthusiasm for software development, I specialize in crafting innovative solutions to complex problems. My love for data structures and algorithms and competitive programing fuels my journey as a developer who thrives on the challenges of building robust, scalable systems.
+            Hello! My name is <strong>Sahil Kumar Sinha</strong>. I'm a passionate B.Tech undergraduate currently in my fourth year at SRM Institute of Science and Technology. With a stellar academic record (CGPA: 9.54) and an unyielding enthusiasm for software development, I specialize in crafting innovative solutions to complex problems. My love for data structures and algorithms and competitive programing fuels my journey as a developer who thrives on the challenges of building robust, scalable systems.
             </ScrollAnimation>
 
             <br /><br />
