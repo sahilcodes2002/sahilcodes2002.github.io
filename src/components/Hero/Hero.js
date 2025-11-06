@@ -45,7 +45,7 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    'A 3rd year undergrad student.',
+                    'A 4th year undergrad student.',
                     
                     1000,
                     'A competitive programmer.',
